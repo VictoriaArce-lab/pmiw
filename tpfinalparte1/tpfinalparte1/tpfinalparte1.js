@@ -1,3 +1,5 @@
+//https://youtu.be/rX_-QJTrgs8
+
 let estadoActual = 0; 
 let historia;
 let imagenes = [];
